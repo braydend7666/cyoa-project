@@ -2,7 +2,7 @@
 ## Start
 
 
-**OH NO A BODY HAS BEEN FOUND! Do you...**
+### OH NO A BODY HAS BEEN FOUND! Do you...
 
-** [Investigate]()**
-** [Stay in your dorm]()**
+### [Investigate]()
+### [Stay in your dorm](stay-in-dorm/stay-in-dorm.md) 
