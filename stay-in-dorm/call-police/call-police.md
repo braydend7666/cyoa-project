@@ -2,4 +2,4 @@
 
 ## [Hang up](hang-up.md)
 
-## [Beg](beg.md)
+## [Beg](beg/beg.md)
