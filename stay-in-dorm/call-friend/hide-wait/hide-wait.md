@@ -2,4 +2,5 @@
 
 ## [Restart?](../../../README.md)
 
-<img src="https://d1yn1kh78jj1rr.cloudfront.net/image/preview/rDtN98Qoishumwih/business-person-hiding-behind-plant-in-office_rYf4j-0Bj_SB_PM.jpg" alt="Kitten"title="A cute kitten" width="150" height="100" />
+<img src="/media/2018/08/kitten.jpg" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
