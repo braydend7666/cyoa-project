@@ -2,4 +2,4 @@
 
 ## [Restart?](../../../README.md)
 
-<img src= "https://images.cdn3.stockunlimited.net/preview1300/business-person-hiding-behind-plant-in-office_2101689.jpg" alt="hide" title="hide" width=300" height="500" />
+<img src="https://images.cdn3.stockunlimited.net/preview1300/business-person-hiding-behind-plant-in-office_2101689.jpg" alt="hide" title="hide" width=300" height="500" />
