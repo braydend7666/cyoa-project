@@ -1,4 +1,4 @@
 #### You decide to investigate. Do you...
 
-### [Investiage the Body](../investigate-body/investigate-body.md)
-### [Investivage the Crime Scene](../investigate-crimescene/investigate-crimescene.md)
+### [Investiage the Body](../examine-body/examine-body.md)
+### [Investigate the Crime Scene](../examine-crimescene/examine-crimescene.md)
