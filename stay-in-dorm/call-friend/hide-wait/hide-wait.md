@@ -3,4 +3,4 @@
 ## [Restart?](../../../README.md)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCMkTPou-TsYjAkEYW62atyAQ7NxiZw1R3M8OFe1k0wnWnoSoX&s" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+	title="A cute kitten" width="500" height="300" />
