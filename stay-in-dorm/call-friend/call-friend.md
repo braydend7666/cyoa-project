@@ -3,4 +3,5 @@
 ### [Hide and Wait](hide-wait/hide-wait.md)
 ### [Investigate](../../investigate/investigate.md)
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmMvq-e-TD1gNUH3hwdP7lU2sDLT1Ot4MIvs3t_NKViNPfcG6Q8g&s
+<img src="https://cdn.cnn.com/cnnnext/dam/assets/181225051737-02-trump-xmas-call-large-169.jpg" alt="Kitten"
+	title="A cute kitten" width="500" height="300" />
