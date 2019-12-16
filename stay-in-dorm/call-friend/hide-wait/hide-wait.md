@@ -2,4 +2,5 @@
 
 ## [Restart?](../../../README.md)
 
-<img src=https://i.kinja-img.com/gawker-media/image/upload/s--4s6jxswR--/c_scale,f_auto,fl_progressive,q_80,w_800/h4wapzi3d77hiqvuzogc.png" alt="Kitten"title="A cute kitten" width="150" height="100" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCMkTPou-TsYjAkEYW62atyAQ7NxiZw1R3M8OFe1k0wnWnoSoX&s" alt="Kitten"
+	title="A cute kitten" width="150" height="100" />
